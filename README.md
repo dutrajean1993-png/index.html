@@ -62,7 +62,7 @@ width:100%;
 
 function comprar(){
 
-window.location.href="https://wa.me/55SEUNUMERO?text=Quero%20comprar%20ingresso%20Vamo%20de%20Pagodin"
+window.location.href="https://wa.me/5554992836868text=Quero%20comprar%20ingresso%20Vamo%20de%20Pagodin"
 
 }
 
